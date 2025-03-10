@@ -1,0 +1,13 @@
+.botaopadrao{
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    background-color: rgb(224, 219, 219);
+    transition: 0.9s;
+}
+.botaopadrao:hover{
+    background-color: blueviolet;
+    color: cornsilk;
+}
