@@ -29,7 +29,7 @@ body{
     color: white;
 }
 .containerImg{
-    width: 100%;
+    width: 90%;
     height: 100%;
     display: flex;
     justify-content: center;
@@ -66,15 +66,14 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 20px;
 }
 
 .texto{
     background: linear-gradient(0deg, rgb(70, 9, 70), rgb(130, 4, 90)); 
     text-align: center;
-    padding: 15px 0;
     font-size: 18px;
     width: 100%;
-
 }
 
 h2{
@@ -85,8 +84,5 @@ footer{
     margin-top: 30px;
 }
 
-a{
-    margin-top: 30px;
-}
 
     
